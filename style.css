@@ -1,0 +1,55 @@
+.login{
+    height: 2.5rem;
+    width: 6rem;
+    background-color: #e60023;
+    border-radius: 0.5rem;
+    border: none;
+    color: white;
+    font-weight: bold;
+    /* display: flex;
+    justify-self: flex-end;
+    justify-content: center; */
+    transform: translateX(85rem);
+    margin-top: 1rem;
+}
+
+.login:hover{
+    background-color: #f9f9f9;
+    color: black;
+}
+
+.signup{
+    height: 2.5rem;
+    width: 6rem;
+    background-color: #f9f9f9;
+    border-radius: 0.5rem;
+    border: none;
+    color: black;
+    font-weight: bold;
+    transform: translateX(71rem);
+    margin-top: 1rem;
+}
+.signup:hover{
+    background-color: #e60023;
+    color: white;
+}
+
+/* .nav{
+    display: flex;
+    position: sticky;
+    top: 0;
+    box-shadow: 2px 4px 8px  rgb(179, 172, 172);
+    height: 5rem;
+} */
+
+.nav-button{
+    height: 2.5rem;
+    width: 6rem;
+    background-color: black;
+    border-radius: 0.5rem;
+    border: none;
+    color: white;
+    margin-right: 10rem;
+}
+
+
